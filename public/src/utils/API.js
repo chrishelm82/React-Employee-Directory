@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from "../../../.gitignore/node_modules/axios";
 
 export default {
   // Gets all users
