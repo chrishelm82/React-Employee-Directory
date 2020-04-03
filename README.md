@@ -7,3 +7,5 @@ Here you'll be able to view an entire employee directory at once so that you hav
 You'll be able to sort and filter through the employee directory and find contact info for each employee.
 
 TECHNOLOGIES React JS / Bootstrap / CSS
+
+https://chrishelm82.github.io/React-Employee-Directory/
